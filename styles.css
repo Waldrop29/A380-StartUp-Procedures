@@ -1,0 +1,39 @@
+body {
+    background-color:lemonchiffon;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #1A2530;
+}
+
+h3{
+    color: #222222;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+li {
+    color: #4a3b32;
+}
+
+#img1 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 99999999;
+    height: 400px;
+    width: 600px;
+}
+
+#img2 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 99999999;
+    height: 800px;
+    width: 600px;
+}
